@@ -3,7 +3,8 @@ A Lightweight Arbitrary-Scale Super-Resolution Reconstruction Method for Remote 
 
 ## Our Code and Dataset will be released after publishing
 
-Our code is built on [Meta-SR(PyTorch)].
+Our code is built on [Meta-SR-Pytorch].
+
 ## Attention
 
 ## Requirements
